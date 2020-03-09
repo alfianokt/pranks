@@ -1,0 +1,22 @@
+{
+  "name": "pranks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@now/node": "^1.4.1"
+  },
+  "dependencies": {
+    "isomorphic-unfetch": "^3.0.0",
+    "polka": "^0.5.2"
+  },
+  "engines": {
+    "node": "12.x"
+  }
+}
