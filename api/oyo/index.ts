@@ -12,7 +12,7 @@ export default async (_, res: NowResponse) => {
 </head>
 <body>
   <div class="container">
-    <p>/oyo/08xxx</p>
+    <p>/api/oyo/08xxx</p>
   </div>
 </body>
 </html>`)
